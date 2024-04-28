@@ -12,7 +12,7 @@ This README would normally document whatever steps are necessary to get your app
 wadddawd
 * Summary of set up
 * Configurationdada
-* Dependencies
+* Dependenciessds
 * Database configuration
 * How to run tests
 * Deployment instructions
