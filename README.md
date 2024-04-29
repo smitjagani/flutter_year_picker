@@ -11,7 +11,7 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###dadaaddadsa
 wadddawd
 * Summary of set updsdas
-* Configurationdada
+* Configurationdadadadsa
 * Dependenciessds
 * Database configuration
 * How to run tests
