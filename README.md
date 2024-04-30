@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###dadaaddadsa
 wadddawd
-* Summary of set updsdas
+* Summary of set updsdasczxczx
 * Configurationdadadadsa
 * Dependenciessdsczcxz
 * Database configuration
