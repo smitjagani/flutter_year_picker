@@ -15,7 +15,7 @@ wadddawdczczxczxcz
 * Dependenciessdsczcxz
 * Database configuration
 * How to run tests
-* Deployment instructions
+* Deployment instructionsczxcz
 dadadasdsa
 ### Contribution guidelines ###
 
