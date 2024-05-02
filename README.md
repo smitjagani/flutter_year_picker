@@ -12,7 +12,7 @@ czxczxczcxzsdaa
 wadddawdczczxczxcz
 * Summary of set updsdasczxczxcxzczxc
 * Configurationdadadadsacxzcxdssdf
-* Dependenciessdsczcxz
+* Dependenciessdsczcxzfds
 * Database configurationczxcz
 * How to run testsfsdfsdfsf
 * Deployment instructionsczxcz
