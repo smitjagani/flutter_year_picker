@@ -14,7 +14,7 @@ wadddawdczczxczxcz
 * Configurationdadadadsacxzcxdssdf
 * Dependenciessdsczcxz
 * Database configurationczxcz
-* How to run testsfsdfs
+* How to run testsfsdfsdfsf
 * Deployment instructionsczxcz
 dadadasdsaczcxz
 ### Contribution guidelines ###czxcz
