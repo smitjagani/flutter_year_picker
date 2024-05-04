@@ -11,7 +11,7 @@ czxczxczcxzsdaa
 ### How do I get set up? ###dadaaddadsadasda
 wadddawdczczxczxcz
 * Summary of set updsdasczxczxcxzczxcfdsfdsdada
-* Configurationdadadadsacxzcxdssdf
+* Configurationdadadadsacxzcxdssdfdadas
 * Dependenciessdsczcxzfds
 * Database configurationczxcz
 * How to run testsfsdfsdfsfdsad
