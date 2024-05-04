@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 czxczxczcxzsdaa
 ### How do I get set up? ###dadaaddadsa
 wadddawdczczxczxcz
-* Summary of set updsdasczxczxcxzczxcfdsfds
+* Summary of set updsdasczxczxcxzczxcfdsfdsdada
 * Configurationdadadadsacxzcxdssdf
 * Dependenciessdsczcxzfds
 * Database configurationczxcz
