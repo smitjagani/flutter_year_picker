@@ -10,7 +10,7 @@ dad
 czxczxczcxzsdaa
 ### How do I get set up? ###dadaaddadsadasdadad
 wadddawdczczxczxczsaasawqwq
-* Summary of set updsdasczxczxcxzczxcfdsfdsdadafds
+* Summary of set updsdasczxczxcxzczxcfdsfdsdadafdssda
 * Configurationdadadadsacxzcxdssdfdadasewrdsds
 * Dependenciessdsczcxzfds
 * Database configurationczxczwq
