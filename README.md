@@ -1,25 +1,24 @@
-dsdsdasdasdasddsadasdsadafsds# WELCOME TO YEAR PICKER PACKAGE #
+eqeweqwqweqweqeqweqewqewqeqweqdadasdasewqeqwqsdadsdsdsdsqadaddasdasdsadadsadsa# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.cxzcz
+This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for?? ###
-dad
-* Quick summarydsadasd
-* Versionffdsdad
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)czxczx
-czxczxczcxzsdaa
-### How do I get set up? ###dadaaddadsadasdadad
-wadddawdczczxczxczsaasawqwq
-* Summary of set updsdasczxczxcxzczxcfdsfdsdadafdssdadsfsd
-* Configurationdadadadsacxzcxdssdfdadasewrdsdsds
-* Dependenciessdsczcxzfds
-* Database configurationczxczwq
-* How to run testsfsdfsdfsfdsad
-* Deployment instructionsczxcz
-dadadasdsaczcxz
-### Contribution guidelines ###czxczdad
+### What is this repository for? ###
 
-* Writing testsfsdfs
+* Quick summarysdad
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependenciesdasddsa
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
 * Code review
 * Other guidelines
 
